@@ -1,2 +1,2 @@
 # odin-recipes
-Website creation for Foundations exercise
+Website creation for Foundations HTML project exercise.
